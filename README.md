@@ -8,3 +8,7 @@ Sitio estático de MOTUS, consultora estratégica: «Todo en una misma direcció
 ## Publicar en GitHub Pages
 
 En el repositorio, entra a **Settings › Pages**. En **Source**, elige **Deploy from a branch**, luego la rama y la carpeta `/ (root)`, y guarda.
+
+## Fotos
+
+Las fotos de la sección «Señales» (`assets/senales/`) son de [Unsplash](https://unsplash.com/license): libres para uso comercial y sin atribución obligatoria. Se pueden reemplazar por fotos propias con el mismo nombre de archivo.
