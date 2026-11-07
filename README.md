@@ -15,9 +15,9 @@ Las fotos de la sección «Señales» (`assets/senales/`) son de [Pexels](https:
 
 | Tarjeta | Foto en Pexels |
 |---|---|
-| 01 Promesa y experiencia | https://www.pexels.com/photo/3801439/ |
-| 02 Mensajes dispersos | https://www.pexels.com/photo/3183186/ |
-| 03 Cambio sin adopción | https://www.pexels.com/photo/15448072/ |
-| 04 Talento que se va | https://www.pexels.com/photo/5999944/ |
-| 05 Liderazgo que no llega | https://www.pexels.com/photo/36713442/ |
-| 06 Reputación subestimada | https://www.pexels.com/photo/7689855/ |
+| 01 Promesa y experiencia | https://www.pexels.com/photo/5668885/ |
+| 02 Mensajes dispersos | https://www.pexels.com/photo/7793988/ |
+| 03 Cambio sin adopción | https://www.pexels.com/photo/8353803/ |
+| 04 Talento que se va | https://www.pexels.com/photo/10041285/ |
+| 05 Liderazgo que no llega | https://www.pexels.com/photo/31709064/ |
+| 06 Reputación subestimada | https://www.pexels.com/photo/31775434/ |
